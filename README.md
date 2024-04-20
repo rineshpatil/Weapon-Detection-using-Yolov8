@@ -7,7 +7,7 @@ This repository is an extensive open-source project showcasing the seamless inte
 Thank you team [Streamlit](<https://github.com/streamlit/streamlit>) for the community support for the cloud upload. 
 
 This app is up and running on Streamlit cloud server!!! You can check the demo of this web application on this link 
-[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)
+[yolov8-streamlit-detection-tracking-webapp](https://github.com/rineshpatil/Weapon-Detection-using-Yolov8)
 
 ## Tracking With Object Detection Demo
 
@@ -39,7 +39,7 @@ pip install ultralytics streamlit pytube
 
 ## Installation
 
-- Clone the repository: git clone <https://github.com/CodingMantras/yolov8-streamlit-detection-tracking.git>
+- Clone the repository: git clone <https://github.com/rineshpatil/Weapon-Detection-using-Yolov8>
 - Change to the repository directory: `cd yolov8-streamlit-detection-tracking`
 - Create `weights`, `videos`, and `images` directories inside the project.
 - Download the pre-trained YOLOv8 weights from (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) and save them to the `weights` directory in the same project.
